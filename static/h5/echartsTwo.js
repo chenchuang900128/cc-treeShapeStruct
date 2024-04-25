@@ -85681,6 +85681,7 @@
 
 })));
 
+// 适配vue3
 export default echarts;
 
 //# sourceMappingURL=echarts.js.map
