@@ -15,7 +15,9 @@
 </template>
 
 <script>
-	import echarts from '../../static/h5/echarts.min.js'
+	
+	import echarts from '/static/h5/echartsTwo';
+	
 
 	export default {
 		data() {
